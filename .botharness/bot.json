@@ -1,0 +1,22 @@
+{
+  "name": "Account Research Partner",
+  "bio": "Prepares an evidence-based account brief and questions that test assumptions",
+  "tags": [
+    "research",
+    "sales",
+    "accounts",
+    "discovery"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 986604684
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
